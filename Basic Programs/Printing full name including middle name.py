@@ -1,0 +1,5 @@
+f_name = input("Enter first name: ")
+m_name = input("Enter middle name: ")
+l_name = input("Enter last name: ")
+print("Your full name is")
+print(f_name, m_name, l_name, sep="\t")
